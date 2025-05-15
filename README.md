@@ -40,8 +40,8 @@ I performed a data analysis on **Walmart's Weekly Sales Data**, focusing on tren
 
 ## 📤 Submission
 
-- 🔗 **GitHub Repository Link:** [https://github.com/ghadgetejasvini/Brainwave_Matrix_Intern]
-- 🔗 **LinkedIn Post:** []
+- 🔗 **GitHub Repository Link:** [https://github.com/ghadagetejasvini/Brainwave_Matrix_Intern]
+- 🔗 **LinkedIn Post:** [https://www.linkedin.com/feed/update/urn:li:ugcPost:7328663000087777281/]
 - ✅ Uploaded and tagged as instructed by **Brainwave Matrix Solutions**
 
 ---
